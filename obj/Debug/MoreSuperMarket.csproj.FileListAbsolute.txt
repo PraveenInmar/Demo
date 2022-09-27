@@ -1,0 +1,16 @@
+C:\Users\pkumar\source\repos\MoreSuperMarket\bin\Debug\MoreSuperMarket.exe.config
+C:\Users\pkumar\source\repos\MoreSuperMarket\bin\Debug\MoreSuperMarket.exe
+C:\Users\pkumar\source\repos\MoreSuperMarket\bin\Debug\MoreSuperMarket.pdb
+C:\Users\pkumar\source\repos\MoreSuperMarket\bin\Debug\Guna.UI2.dll
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.csproj.AssemblyReference.cache
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.Properties.Resources.resources
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.csproj.GenerateResource.cache
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.csproj.CopyComplete
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.exe
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.pdb
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.LoginForm.resources
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.HomePageForm.resources
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.ProductForm.resources
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.CategoryForm.resources
+C:\Users\pkumar\source\repos\MoreSuperMarket\obj\Debug\MoreSuperMarket.SellerForm.resources
